@@ -41,6 +41,12 @@ Three parts, and the middle one is load-bearing:
 2. **Visible consequence.** The contribution demonstrably changes something, fast: the community's take airs the same hour, the requested segment appears next week, the fix ships with a thank-you. This is the step organizations skip, and skipping it is why their suggestion boxes go quiet. A consequence nobody can see is indistinguishable from the void.
 3. **Accumulated standing.** The system remembers who contributed what, so influence deepens: the thoughtful ranter gets the interview invitation, the superfan gets the preview, the regular gets a seat at the planning table. Standing is agency's compounding mechanism, the reason contribution number fifty means more than contribution number one.
 
+## When the customer can fix their own experience
+
+Software sharpens every part of the loop, because the customer's own agent can do most of the contributing. The report gets written from inside the session that broke, with the steps, versions and screen captured for the customer rather than asked of them. The customer sees exactly what is being sent, private detail redacted, and approves a look at the data the bug needs. The consequence can be the fix itself, shipped the same afternoon: on Freedom, an operator has watched their own reported bug get fixed and shipped within about three hours. That is visible consequence at its strongest. The customer did not influence a roadmap; they reached into a tool they use every day and it stopped failing them.
+
+It also changes where standing leads, and the boundary has to be stated before anyone contributes code. When a customer's agent opens a pull request, the contribution is licensed to the organization, and saying so plainly before the patch is written is part of treating the customer well. A merged patch does not make the customer a member of the engineering team, and filing bugs does not either. The seat at the planning table in the loop above is a seat as a customer. What grows is their say over their own experience of the product. The customer-experience side of this is argued in full in [Let the Customer Fix Their Own Experience](https://userexperience.wiki/perspectives/let-the-customer-fix-their-own-experience).
+
 ## Why an organization should want to give this away
 
 Granting agency sounds like surrendering control. It is closer to the opposite: it is what keeps the intelligence flowing.
@@ -57,3 +63,4 @@ The pairing is the strategy: intelligence on the org side, agency on the custome
 - [Customers Sniff the Slop](/principles/customers-sniff-the-slop): why the visible consequences have to be real ones.
 - [Continually Improving Companies](/concepts/continually-improving-companies): the company-level posture where co-creation becomes the brand itself.
 - [Good in Every Sense](/principles/good-in-every-sense): the standard that makes granting agency a strategy rather than a stunt.
+- [Let the Customer Fix Their Own Experience](https://userexperience.wiki/perspectives/let-the-customer-fix-their-own-experience): the same loop from the customer's chair, in software, with the terms that keep a contributing customer a customer.
