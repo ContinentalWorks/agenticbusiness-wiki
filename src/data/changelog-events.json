@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/compounding-customer-agency@1f72b221350a3ef9990fa9398517aef87e2901c9",
+      "type": "updated",
+      "date": "2026-09-28T14:59:28-05:00",
+      "docKey": "concepts/compounding-customer-agency",
+      "routePath": "/concepts/compounding-customer-agency",
+      "section": "concepts",
+      "title": "Compounding Customer Agency",
+      "description": "The customer-side complement of compounding customer intelligence: real, growing influence over the organization's future for the people who care about it. Intelligence on the org side, agency on the customer side."
+    },
+    {
       "id": "concepts/the-business-plugin@da0273abd0e109943252248d566843efb0141da3",
       "type": "updated",
       "date": "2026-09-14T21:44:39-05:00",
@@ -2322,6 +2332,10 @@
     }
   ],
   "pageDates": {
+    "concepts/compounding-customer-agency": {
+      "updated": "2026-09-28T14:59:28-05:00",
+      "created": "2026-08-13T15:23:43-05:00"
+    },
     "concepts/the-business-plugin": {
       "updated": "2026-09-14T21:44:39-05:00",
       "created": "2026-09-13T18:44:07-05:00"
@@ -2341,10 +2355,6 @@
     "concepts/clockworkers": {
       "updated": "2026-08-29T07:30:23-04:00",
       "created": "2026-05-17T12:37:01-05:00"
-    },
-    "concepts/compounding-customer-agency": {
-      "updated": "2026-08-29T07:30:23-04:00",
-      "created": "2026-08-13T15:23:43-05:00"
     },
     "concepts/compounding-customer-intelligence": {
       "updated": "2026-08-29T07:30:23-04:00",
