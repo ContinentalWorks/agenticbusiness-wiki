@@ -89,6 +89,7 @@ Those six steps expanded into a recipe, with the files each one produces, live a
 
 - [The Machine-Drivable Business](/concepts/the-machine-drivable-business): the state a business plugin drives toward, every working part readable and actuable by an agent
 - [Continually Improving Companies](/concepts/continually-improving-companies): the company-level shape the improvement loop produces
+- [The HQ App](/concepts/the-hq-app): the small private app the founders carry, which the plugin's verbs read and write
 - [The Superorg](/concepts/superorg): every function piloted from a personal system; the business plugin is what the personal systems dock into
 - [The Business Plugin Standard](https://appliedai.wiki/reference/standards/business-plugin): the seven requirements a package has to meet, what each one checks mechanically, and the ratchet that lets a business adopt it today
 - [Generate a Business Plugin](https://appliedai.wiki/playbooks/generate-a-business-plugin): the recipe, followable by hand
