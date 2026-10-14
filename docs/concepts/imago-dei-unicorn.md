@@ -73,7 +73,7 @@ The canonical case to study, when it surfaces, is Black women in cultural produc
 
 ## The artist instance
 
-The smallest real case of the pairing is an artist. The Unicorn is the artist, whose gift is the product and who does nothing but make it. The clockwork layer collapses to one person: a manager who is a serious entertainment dealmaker and an athlete at applied AI, running the eight jobs that used to sit between the artist and the world as agents on a Freedom-class system. What the artist keeps is a veto over every recommendation, and a written file of values the system reads before it acts. The full treatment, including what has to be true for two seats to be enough, is [The Two-Seat Artist Team](https://agenticart.wiki/concepts/the-two-seat-artist-team) on agenticart.wiki.
+The smallest real case of the pairing is an artist. The Unicorn is the artist, whose gift is the product and who does nothing but make it. The clockwork layer collapses to one person: a manager who is a serious entertainment dealmaker and an athlete at applied AI, running the eight jobs that used to sit between the artist and the world as agents on a supersuit. What the artist keeps is a veto over every recommendation, and a written file of values the system reads before it acts. The full treatment, including what has to be true for two seats to be enough, is [The Two-Seat Artist Team](https://agenticart.wiki/concepts/the-two-seat-artist-team) on agenticart.wiki.
 
 ## Why this matters now
 
