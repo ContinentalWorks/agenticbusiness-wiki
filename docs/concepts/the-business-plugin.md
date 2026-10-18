@@ -19,7 +19,7 @@ A business is a small set of things it does over and over. Onboard a client. Shi
 
 The size of a verb is fixed by what it will run on: **one verb is what an agent can do start to finish in a single session**, handed one instruction and left alone. "Onboard a district" is a verb if a session can take a signed contract and end with the accounts made, the welcome sent and the record updated. "Grow the business" is not a verb; it is a hundred of them. When a candidate will not fit in one session, it is a project that several verbs serve, and the verbs are what go in the plugin.
 
-A **business plugin** is those verbs packaged as skills inside one installable [plugin](https://appliedai.wiki/concepts/plugins), one plugin per business. It is the business's own operating system for agents: install it and the owner's [Chief of Agents](https://supersuit.wiki/concepts/chief-of-agents) knows how this particular company onboards a client, which repo the site lives in, what a release has to pass before it counts as shipped, and who gets told when it does.
+A **business plugin** is those verbs packaged as skills inside one installable [plugin](https://appliedai.wiki/concepts/plugins), one plugin per business. It is the business's own operating system for agents: install it and the owner's [Chief of Agents](https://wiki.supersuit.co/concepts/chief-of-agents) knows how this particular company onboards a client, which repo the site lives in, what a release has to pass before it counts as shipped, and who gets told when it does.
 
 The unit is the business, so an owner with three businesses has three plugins, and a plugin belongs to the business rather than to the person. That is what the next two sections are about.
 

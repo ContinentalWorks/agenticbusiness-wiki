@@ -35,7 +35,7 @@ Search covers all of it by meaning. Describing a whiteboard photo from three wee
 
 ## The agents have a key
 
-Each founder's [Chief of Agents](https://supersuit.wiki/concepts/chief-of-agents) holds its own key to the app and acts as that founder. It reads the bring-up list before a call and briefs them. It adds an item when the founder says "remind me to raise that." It files the week's receipts into the company ledger and marks them filed. It shares a link with a why in the founder's own words.
+Each founder's [Chief of Agents](https://wiki.supersuit.co/concepts/chief-of-agents) holds its own key to the app and acts as that founder. It reads the bring-up list before a call and briefs them. It adds an item when the founder says "remind me to raise that." It files the week's receipts into the company ledger and marks them filed. It shares a link with a why in the founder's own words.
 
 This is the difference from a group chat with good habits. The app is [machine-legible](/concepts/the-machine-legible-business) and [machine-drivable](/concepts/the-machine-drivable-business) from the first day: every tile has a typed record behind it and a door an agent can use. The founders get an app. Their agents get the company's working memory in a form they can read and write. The verbs the agents use to reach it ship as part of [the business plugin](/concepts/the-business-plugin).
 
@@ -59,4 +59,4 @@ It is not a project tracker, a wiki or a CRM, and it should not grow into one. T
 - [The Firm Super Suit](/concepts/the-firm-super-suit): the company's judgment as a system that outlasts any one person
 - [Continually Improving Products](/concepts/continually-improving-products): the loop the app runs on its own two users
 - [The In-App Suggestion](https://userexperience.wiki/concepts/the-in-app-suggestion): how a founder asks for a change from the screen they are on
-- [Chief of Agents](https://supersuit.wiki/concepts/chief-of-agents): the agent that holds each founder's key
+- [Chief of Agents](https://wiki.supersuit.co/concepts/chief-of-agents): the agent that holds each founder's key

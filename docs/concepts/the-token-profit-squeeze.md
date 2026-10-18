@@ -81,5 +81,5 @@ The operator who runs that portfolio with discipline survives the squeeze. The o
 - [Customer Financed Acquisition](/principles/customer-financed-acquisition): the full LGP-to-CAC discipline this concept sits inside.
 - [Clockworkers](/concepts/clockworkers): the role-design concept that pairs with managing per-seat AI cost.
 - [appliedai.wiki](https://appliedai.wiki): the implementer-side craft for compressing token use per task.
-- [supersuit.wiki](https://supersuit.wiki): the personal agentic surface that lets the operator monitor per-seat economics in real time.
+- [supersuit.wiki](https://wiki.supersuit.co/): the personal agentic surface that lets the operator monitor per-seat economics in real time.
 - Source: Hedgie Markets, [X, 2026-05](https://x.com/HedgieMarkets/status/2057531661785628841/).
