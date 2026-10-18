@@ -12,7 +12,7 @@ description: "The only kind of business worth building from here forward. Every 
 
 ## What it is
 
-A **Superorg** is a company where every essential function is piloted by a supersuited leader, and the piloted functions are docked into one composite vessel through a shared substrate. Each leader runs their own [Personal Agentic OS](https://supersuit.wiki/concepts/personal-agentic-os-workspace) as the cockpit they pilot their function from; the [Chief of Agents](https://supersuit.wiki/concepts/chief-of-agents) inside it executes against the function's operational load. The functions unite under one Superorg. The full treatment lives at [supersuit.wiki/concepts/superorg](https://supersuit.wiki/concepts/superorg). This page is the agentic-business framing: why the Superorg is the only kind of business worth building moving forward.
+A **Superorg** is a company where every essential function is piloted by a supersuited leader, and the piloted functions are docked into one composite vessel through a shared substrate. Each leader runs their own [Personal Agentic OS](https://supersuit.wiki/concepts/personal-agentic-os-workspace) as the cockpit they pilot their function from; the [Chief of Agents](https://wiki.supersuit.co/concepts/chief-of-agents) inside it executes against the function's operational load. The functions unite under one Superorg. The full treatment lives at [supersuit.wiki/concepts/superorg](https://supersuit.wiki/concepts/superorg). This page is the agentic-business framing: why the Superorg is the only kind of business worth building moving forward.
 
 ## The argument
 
