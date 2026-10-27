@@ -1,6 +1,86 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/superorg@0126f543c4594983fd54b9de3fb35acc0a64232d",
+      "type": "updated",
+      "date": "2026-10-18T19:16:53-04:00",
+      "docKey": "concepts/superorg",
+      "routePath": "/concepts/superorg",
+      "section": "concepts",
+      "title": "The Superorg",
+      "description": "The only kind of business worth building from here forward. Every human supersuited up, every essential function covered, the whole org composing into a Superorg-class operation."
+    },
+    {
+      "id": "concepts/the-business-plugin@0126f543c4594983fd54b9de3fb35acc0a64232d",
+      "type": "updated",
+      "date": "2026-10-18T19:16:53-04:00",
+      "docKey": "concepts/the-business-plugin",
+      "routePath": "/concepts/the-business-plugin",
+      "section": "concepts",
+      "title": "The Business Plugin",
+      "description": "One installable plugin per business, holding the business's own verbs as skills. Every verb is mapped, every call improves it, and whoever scales or buys the business inherits the agent that ran it."
+    },
+    {
+      "id": "concepts/the-hq-app@0126f543c4594983fd54b9de3fb35acc0a64232d",
+      "type": "updated",
+      "date": "2026-10-18T19:16:53-04:00",
+      "docKey": "concepts/the-hq-app",
+      "routePath": "/concepts/the-hq-app",
+      "section": "concepts",
+      "title": "The HQ App",
+      "description": "One small private app a founding team runs the company from. It holds the handful of things founders pass to each other every day, tells each of them the moment the other does something, and is open to every founder's agent as well as to their thumbs."
+    },
+    {
+      "id": "concepts/the-token-profit-squeeze@0126f543c4594983fd54b9de3fb35acc0a64232d",
+      "type": "updated",
+      "date": "2026-10-18T19:16:53-04:00",
+      "docKey": "concepts/the-token-profit-squeeze",
+      "routePath": "/concepts/the-token-profit-squeeze",
+      "section": "concepts",
+      "title": "The Token-Profit Squeeze",
+      "description": "A structural pattern in agentic businesses. Per-seat revenue stays roughly flat as a heavy AI-using employee scales their work, while per-token compute cost climbs exponentially. The gap closes, then crosses, then collapses the margin on the seat."
+    },
+    {
+      "id": "concepts/compounding-customer-agency@63859d11a2f82b8af0e9d438a3230647d6aded85",
+      "type": "updated",
+      "date": "2026-10-14T17:04:32-04:00",
+      "docKey": "concepts/compounding-customer-agency",
+      "routePath": "/concepts/compounding-customer-agency",
+      "section": "concepts",
+      "title": "Compounding Customer Agency",
+      "description": "The customer-side complement of compounding customer intelligence: real, growing influence over the organization's future for the people who care about it. Intelligence on the org side, agency on the customer side."
+    },
+    {
+      "id": "concepts/imago-dei-unicorn@63859d11a2f82b8af0e9d438a3230647d6aded85",
+      "type": "updated",
+      "date": "2026-10-14T17:04:32-04:00",
+      "docKey": "concepts/imago-dei-unicorn",
+      "routePath": "/concepts/imago-dei-unicorn",
+      "section": "concepts",
+      "title": "Imago Dei Unicorn",
+      "description": "The canonical ideal: the soul-of-the-company creative leader worth backing. A founder or operator whose specific gift is the actual source of the venture's creative anointing. Anointed at the source. Needs scaling support, not replacement."
+    },
+    {
+      "id": "concepts/the-business-plugin@737147130d988c20e086c0e6726c70bf1333d005",
+      "type": "updated",
+      "date": "2026-10-13T16:09:05-04:00",
+      "docKey": "concepts/the-business-plugin",
+      "routePath": "/concepts/the-business-plugin",
+      "section": "concepts",
+      "title": "The Business Plugin",
+      "description": "One installable plugin per business, holding the business's own verbs as skills. Every verb is mapped, every call improves it, and whoever scales or buys the business inherits the agent that ran it."
+    },
+    {
+      "id": "concepts/the-hq-app@737147130d988c20e086c0e6726c70bf1333d005",
+      "type": "new",
+      "date": "2026-10-13T16:09:05-04:00",
+      "docKey": "concepts/the-hq-app",
+      "routePath": "/concepts/the-hq-app",
+      "section": "concepts",
+      "title": "The HQ App",
+      "description": "One small private app a founding team runs the company from. It holds the handful of things founders pass to each other every day, tells each of them the moment the other does something, and is open to every founder's agent as well as to their thumbs."
+    },
+    {
       "id": "concepts/compounding-customer-agency@1f72b221350a3ef9990fa9398517aef87e2901c9",
       "type": "updated",
       "date": "2026-09-28T14:59:28-05:00",
@@ -2332,16 +2412,28 @@
     }
   ],
   "pageDates": {
-    "concepts/compounding-customer-agency": {
-      "updated": "2026-09-28T14:59:28-05:00",
-      "created": "2026-08-13T15:23:43-05:00"
+    "concepts/superorg": {
+      "updated": "2026-10-18T19:16:53-04:00",
+      "created": "2026-05-17T19:14:27-05:00"
     },
     "concepts/the-business-plugin": {
-      "updated": "2026-09-14T21:44:39-05:00",
+      "updated": "2026-10-18T19:16:53-04:00",
       "created": "2026-09-13T18:44:07-05:00"
     },
+    "concepts/the-hq-app": {
+      "updated": "2026-10-18T19:16:53-04:00",
+      "created": "2026-10-13T16:09:05-04:00"
+    },
+    "concepts/the-token-profit-squeeze": {
+      "updated": "2026-10-18T19:16:53-04:00",
+      "created": "2026-05-22T17:05:07-05:00"
+    },
+    "concepts/compounding-customer-agency": {
+      "updated": "2026-10-14T17:04:32-04:00",
+      "created": "2026-08-13T15:23:43-05:00"
+    },
     "concepts/imago-dei-unicorn": {
-      "updated": "2026-09-12T16:53:50-05:00",
+      "updated": "2026-10-14T17:04:32-04:00",
       "created": "2026-05-17T12:37:01-05:00"
     },
     "principles/index": {
@@ -2379,10 +2471,6 @@
     "concepts/the-machine-drivable-business": {
       "updated": "2026-08-29T07:30:23-04:00",
       "created": "2026-07-28T09:16:49-05:00"
-    },
-    "concepts/the-token-profit-squeeze": {
-      "updated": "2026-08-29T07:30:23-04:00",
-      "created": "2026-05-22T17:05:07-05:00"
     },
     "perspectives/representation-is-a-context-problem": {
       "updated": "2026-08-29T07:30:23-04:00",
@@ -2619,10 +2707,6 @@
     "principles/a-player-for-you": {
       "updated": "2026-05-19T08:45:33-05:00",
       "created": "2026-05-19T08:45:33-05:00"
-    },
-    "concepts/superorg": {
-      "updated": "2026-05-17T20:45:24-05:00",
-      "created": "2026-05-17T19:14:27-05:00"
     },
     "principles/protect-the-mission-vehicle": {
       "updated": "2026-05-17T14:30:08-05:00",

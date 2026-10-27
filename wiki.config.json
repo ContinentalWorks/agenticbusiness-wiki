@@ -7,5 +7,9 @@
   "projectName": "agenticbusiness-wiki",
   "copyright": "agenticbusiness.wiki",
   "noindex": true,
+  "gate": {
+    "type": "freedom-account",
+    "mode": "act"
+  },
   "description": "Mentor-sourced ground truth for principals building agentic businesses. A business is agentic when it applies AI to its highest and best use, multiplying its potential without hollowing out what makes it worth running."
 }
