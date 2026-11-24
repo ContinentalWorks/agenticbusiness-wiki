@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "start-here/what-is-an-agentic-business@382f8d433524ba4d8b9e0f12831a8d4bcc23b5f8",
+      "type": "updated",
+      "date": "2026-11-14T08:34:14-05:00",
+      "docKey": "start-here/what-is-an-agentic-business",
+      "routePath": "/start-here/what-is-an-agentic-business",
+      "section": "start-here",
+      "title": "What is an Agentic Business",
+      "description": "A business that runs on applied AI. The founder sets direction, AI handles the operations that can be handed off, and the humans do the work that only humans can do."
+    },
+    {
       "id": "concepts/superorg@0126f543c4594983fd54b9de3fb35acc0a64232d",
       "type": "updated",
       "date": "2026-10-18T19:16:53-04:00",
@@ -2412,6 +2422,14 @@
     }
   ],
   "pageDates": {
+    "start-here/index": {
+      "updated": "2026-11-14T08:34:14-05:00",
+      "created": "2026-05-15T17:17:56-04:00"
+    },
+    "start-here/what-is-an-agentic-business": {
+      "updated": "2026-11-14T08:34:14-05:00",
+      "created": "2026-05-16T07:36:08-05:00"
+    },
     "concepts/superorg": {
       "updated": "2026-10-18T19:16:53-04:00",
       "created": "2026-05-17T19:14:27-05:00"
@@ -2623,14 +2641,6 @@
     "principles/you-cannot-delegate-your-judgment": {
       "updated": "2026-08-29T07:30:23-04:00",
       "created": "2026-08-08T00:25:23-05:00"
-    },
-    "start-here/index": {
-      "updated": "2026-08-29T07:30:23-04:00",
-      "created": "2026-05-15T17:17:56-04:00"
-    },
-    "start-here/what-is-an-agentic-business": {
-      "updated": "2026-08-29T07:30:23-04:00",
-      "created": "2026-05-16T07:36:08-05:00"
     },
     "mentors/index": {
       "updated": "2026-08-24T13:26:29-04:00",
